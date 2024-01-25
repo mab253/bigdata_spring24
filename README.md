@@ -90,7 +90,7 @@ All work for this class will be project and presentation-based, and there will b
 - *[The Mining of Massive Datasets](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch-2.pdf),* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
 
 **Recommended:**
-- from *Hadoop, The Definitive Guide,* White Ch. 2, pp. 19-37 (you can skim/skip the Java code!)
+- from *[Hadoop, The Definitive Guide,* White Ch. 2](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-2.pdf), pp. 19-37 (you can skim/skip the Java code!)
 - "[What is MapReduce?](https://www.youtube.com/watch?v=43fqzaSH0CQ)," G. Challen (internet-class), (video, 5 min.)
 - "[MapReduce](https://www.youtube.com/watch?v=cvhKoniK5Uo)," R. Tickle (computerphile, U. of Nottingham), (video, 6 min.)
 - [other resources](LINK) for MapReduce
