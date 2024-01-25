@@ -167,8 +167,8 @@ All work for this class will be project and presentation-based, and there will b
 **TBD: DATA CENTER TOUR**
 
 **Reading for today:**
-- "The Cloud is Material: On the Environmental Impacts of Computation and Data Storage," Monserrate
-- "View of a Former Verizon Building," Wakeling (video, 19min.)
+- "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
+- "[View of a Former Verizon Building](https://vimeo.com/65778055)," Wakeling (video, 19min.)
 - self-directed reading
 
 ---
