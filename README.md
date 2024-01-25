@@ -69,7 +69,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **Reading for today:**
 - "[The Google File System](https://github.com/mab253/bigdata_spring24/blob/main/readings/google-file-system.pdf)," Ghemawat et. al (paper)
-- *Hadoop, The Definitive Guide*, White:
+- *[Hadoop, The Definitive Guide](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-1-3.pdf)*, White:
     - Ch. 1, pp. 3-14
     - Ch. 3, pp. 43-50 and pp. 69-71
 
