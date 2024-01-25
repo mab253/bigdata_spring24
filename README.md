@@ -87,7 +87,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **Reading for today:**
 - "[MapReduce: Simplified Data Processing on Large Clusters](https://github.com/mab253/bigdata_spring24/blob/main/readings/map-reduce.pdf)," Dean and Ghemawat (paper)
-- *The Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
+- *[The Mining of Massive Datasets](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch-2.pdf),* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
 
 **Recommended:**
 - from *Hadoop, The Definitive Guide,* White Ch. 2, pp. 19-37 (you can skim/skip the Java code!)
