@@ -68,7 +68,7 @@ All work for this class will be project and presentation-based, and there will b
 *Distributed File Systems*
 
 **Reading for today:**
-- "The Google File System," Ghemawat et. al (paper)
+- "[The Google File System](https://github.com/mab253/bigdata_spring24/blob/main/readings/google-file-system.pdf)," Ghemawat et. al (paper)
 - *Hadoop, The Definitive Guide*, White:
     - Ch. 1, pp. 3-14
     - Ch. 3, pp. 43-50 and pp. 69-71
@@ -86,7 +86,7 @@ All work for this class will be project and presentation-based, and there will b
 *Parallel Computation: MapReduce*
 
 **Reading for today:**
-- "MapReduce: Simplified Data Processing on Large Clusters," Dean and Ghemawat (paper)
+- "[MapReduce: Simplified Data Processing on Large Clusters](https://github.com/mab253/bigdata_spring24/blob/main/readings/map-reduce.pdf)," Dean and Ghemawat (paper)
 - *The Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
 
 **Recommended:**
@@ -103,7 +103,7 @@ All work for this class will be project and presentation-based, and there will b
 *Spark + PySpark I*
 
 **Reading for today:**
-- "Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing," Zaharia et. al (paper)
+- "[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://github.com/mab253/bigdata_spring24/blob/main/readings/spark.pdf)," Zaharia et. al (paper)
 - *Hadoop: The Definitive Guide* Ch. 19, pp. TBD 
 
 **Recommended:**
