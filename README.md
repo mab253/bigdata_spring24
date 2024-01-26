@@ -221,7 +221,7 @@ All work for this class will be project and presentation-based, and there will b
 ---
 
 **Week 14: May 8** \
-🏠 Online Zoom
+🦋 Asynchronous
 
 *Special Topics TBD; Final Project Workshop*
 
