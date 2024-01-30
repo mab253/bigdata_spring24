@@ -29,10 +29,11 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Environmental Impact of Big Data + Scalable Systems Infrastructure
 - New Developments in Hardware (chips, etc.)
 - Case Study (of a specific company or research project)
-- PageRank (Google)
+- PageRank, Search (Google)
 - Platform-Specific (CUDA, AWS, Mesos, Tensorflow, etc.)
 - New Development in LLMs, NLP, Generative AI ...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
+- Internet Archive, crawling
 - Visualization of Big Data
 - Artists Using Big Data
 - Metaphors in Big Data, Critical Theory and Data, Memory, etc.
