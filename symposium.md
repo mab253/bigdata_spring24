@@ -13,7 +13,7 @@ By **March 13th,** you will need to find a partner in class and choose a topic t
 - a bibliography of sources that you will read (as a pair)
 
 Your bibliography should include **@ minimum:**
-- 2 academic/industry research papers
+- 2 academic research or industry white papers
 - 1 book (you may find book chapters or books online)
 - 2 related software tools with their documentation
 - 3 non-scholarly articles (online, journalistic, etc.)
