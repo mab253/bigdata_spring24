@@ -35,7 +35,7 @@ This is a **hybrid** course. We will meet mostly synchronously, some weeks onlin
 
 👾 For this class, we will build an asynchronous offline community (as exists in nearly every endeavor @ this point!). We will have a class [Discord](https://github.com/mab253/bigdata_spring24/blob/main/discord.md) server with multiple channels for posting updates, posing questions, commenting on readings and each others' work, sharing resources and opportunities, etc.
 
-"Big data" is a widely-encompassing term referring to rapidly changing fields - learning foundational concepts and the ability to pick up new material will be more valuable to you than honing specific techniques! Because of this, our class will be structured more as a research seminar than a lecture course. In the introductory weeks, we will read original papers and use  class time to discuss overall system design. Programming assignments in this early unit of the course will be self-paced. After Week 5, we will transition into significantly self-directed work; you will have ample spacetime to follow your own curiosity and interests. Students will pair up to choose a research topic to present during a Symposium on Weeks 10 and 11, and continue focused work on this topic into a final paper/coding project.
+"Big data" is a widely-encompassing term referring to rapidly changing fields - learning foundational concepts and the ability to pick up new material will be more valuable to you than honing specific techniques! Because of this, our class will be structured more as a research seminar than a lecture course. In the introductory weeks, we will read original papers and use  class time to discuss overall system design. Programming assignments in this early unit of the course will be self-paced. After Week 5, we will transition into significantly self-directed work; you will have ample spacetime to follow your own curiosity and interests. Students will pair up to choose a research topic to present during a [Symposium](https://github.com/mab253/bigdata_spring24/blob/main/symposium.md) on Weeks 10 and 11, and continue focused work on this topic into a final paper/coding project.
 
 All work for this class will be project and presentation-based, and there will be no exams.
 
@@ -126,7 +126,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **For this week:**
 - finish the codecademy course + programming final notebook
-- finalize symposium pairs + topics, start bibliography
+- finalize [symposium](https://github.com/mab253/bigdata_spring24/blob/main/symposium.md) pairs + topics, start bibliography
 
 **Recommended:**
 - [other resources](LINK) for Spark, PySpark, Python, SQL etc.
@@ -145,7 +145,7 @@ All work for this class will be project and presentation-based, and there will b
 **For this week:**
 - self-directed reading
 
-**📚 bibliography + symposium proposal DUE by March 13th, 11:59pm**
+**📚 [bibliography + symposium proposal](https://github.com/mab253/bigdata_spring24/blob/main/symposium.md) DUE by March 13th, 11:59pm**
 
 ---
 
