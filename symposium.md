@@ -24,7 +24,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Data Lake, Data Warehouse, Data Lakehouse
 - Data Storage on the Blockchain (IPFS, etc.)
 - Domain-Specific Implementation (vaccines, finance, science, airlines)
-- Big Data for Discovery (check out the book _The Fourth Paradigm_)
+- Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - Media Storage at Scale
 - Environmental Impact of Big Data + Scalable Systems Infrastructure
 - New Developments in Hardware (chips, etc.)
