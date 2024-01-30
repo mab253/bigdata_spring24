@@ -3,7 +3,8 @@
 A symposium is a gathering where people present, share, debate, and celebrate their current work on a unified topic. It's based on a [Greek](https://en.wikipedia.org/wiki/Symposium#/media/File:Paestum_tombeau_plongeur_c1.jpg) social institution (although the ancient original had more dancing, and significantly more drinking). In this class, you will pair up with another classmate to dive deeply into a topic of your choice within "big data" and scalable systems, and you will present your findings in 30 min. presentations in Weeks 10 + 11.
 
 <img width="600" alt="Screenshot 2024-01-30 at 1 28 32 PM" src="https://github.com/mab253/bigdata_spring24/assets/17707843/875c57f9-84ce-4704-8ac9-81c325840d44">
-img source: [_The Atlantic_](https://cdn.theatlantic.com/thumbor/6qfVcgYTpN7FB6ZDTYQTVhvGdAA=/0x104:2000x1229/1600x900/media/img/mt/2017/03/Aristotle1/original.jpg)
+
+img source: [The Atlantic](https://cdn.theatlantic.com/thumbor/6qfVcgYTpN7FB6ZDTYQTVhvGdAA=/0x104:2000x1229/1600x900/media/img/mt/2017/03/Aristotle1/original.jpg)
 
 # 📚 part 1: topic choice & bibliography
 
