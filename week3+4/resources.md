@@ -1,6 +1,6 @@
 # 🤖 + resources for weeks 3 + 4:
 
-on Apache Spark:
+on Apache Spark + RDDs:
 - "[Apache Spark](https://www.youtube.com/watch?v=tDVPcqGpEnM)," R. Tickle (computerphile, U. of Nottingham), (video, 7 min.)
 
 on PySpark library:
