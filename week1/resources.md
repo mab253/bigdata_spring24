@@ -1,5 +1,9 @@
 # 🤖 + resources for week 1
 
+on research papers:
+- "[How to Read a Paper](https://github.com/mab253/bigdata_spring24/blob/main/readings/how-to-read-a-paper.pdf)", Keshav
+- "[A guide to reading research papers](https://www.scientifica.uk.com/neurowire/gradhacks-a-guide-to-reading-research-papers)," Scientifica
+
 on big data generally, intro material:
 - [An Introduction to Big Data Concepts and Terminology](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology), Digital Ocean documentation
 
