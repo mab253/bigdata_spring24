@@ -2,8 +2,9 @@
 
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
-Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it with your friends, for gaming, or in other communities. In our class, we will use the Discord platform for weekly assignment posts, questions, discussions, sharing resources, etc: 
-<img width="1418" alt="Screenshot 2023-08-29 at 3 46 09 PM" src="https://github.com/mab253/dataviz_fall23/assets/17707843/51a16ff5-c5bc-44e5-9462-1d0302e4b3b9">
+Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it with your friends, for gaming, or in other classes or jobs. In our class, we will use the Discord platform for weekly posts, questions, discussions, sharing resources, etc: 
+<img width="1396" alt="Screenshot 2024-01-30 at 2 19 46 PM" src="https://github.com/mab253/bigdata_spring24/assets/17707843/8e7e180b-b3fa-4206-8208-f6571bdab997">
+
 
 
 ## to start on our Discord server:
@@ -14,9 +15,17 @@ Discord is a good tool to learn in today's coding world: most workplaces will ha
 
 ## assignments 
 
-Every week you are responsible for:
+Every week you are responsible for, **@ minimum**:
 - 1 post due 4:00pm NYC-time before every class session, starting Week 1 (Feb. 7th)
-- asking @ least 1 question or making 1 comment on **someone else's post**
+- making 1 comment or question on **someone else's post**
+
+## what goes in a post?
+
+Your weekly post should be a log of your classwork for the week. This could include major questions you had about the readings; a summary of your self-directed reading and project updates; a connection you made between weekly topics; an article or something that happened to you during the week that reminded you of class; a coding tutorial you found that helped you; etc. These should not be 1-sentence updates; they should be a small but significant view into your thought process as we learn. This is especially helpful in a hybrid class.
+
+My hope is that the Discord will be a space where you can ask any clarification or programming or project question you have, post something helpful that you found, get inspired by other students' work and questions, etc. The Discord is not for the professor to check up on you; it's a running archive of our class (which can be helpful for writing up your final reflection at the end of the course!), and a space for all of us to collaboratively learn.
+
+I will be an active member of the Discord as well, answering questions where it's helpful and connecting you to resources where it's possible. This is also where I will get a sense of what kind of workshops would be most helpful to everyone: for example, if everyone is having a similar Python issue, or big questions about a similar system, or a big interest in a new tool, our next class meeting could address these topics. Part of my role will be looking for themes that are surfacing across everyone's different projects.
 
 ## Discord tips
   - you can [customize the appearance](https://support.discord.com/hc/en-us/articles/207260127-How-can-I-change-Discord-s-appearance-theme-) so it's easiest for you to read
