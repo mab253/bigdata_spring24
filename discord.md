@@ -21,7 +21,7 @@ Every week you are responsible for, **@ minimum**:
 
 ## what goes in a post?
 
-Your weekly post should be a log of your classwork for the week. This could include major questions you had about the readings; a summary of your self-directed reading and project updates; a connection you made between weekly topics; an article or something that happened to you during the week that reminded you of class; a coding tutorial you found that helped you; etc. **These should not be 1-sentence updates; they should be at least 1 paragraph, a small but significant view into your thought process as we learn. This is especially helpful in a hybrid class.**
+Your weekly post should be a log of your classwork for the week. This could include major questions you had about the readings; a summary of your self-directed reading and project updates; a connection you made between weekly topics; an article or something that happened to you during the week that reminded you of class; a coding tutorial you found that helped you; etc. **These should not be 1-sentence updates; they should be at least 1 paragraph, a small but significant view into your ongoing thought process. This is especially helpful in a hybrid class.**
 
 My hope is that the Discord will be a space where you can ask any clarification or programming or project question you have, post something helpful that you found, get inspired by other students' work and questions, etc. The Discord is not for the professor to check up on you; it's a running archive of our class (which can be useful for writing up your final reflection at the end of the course!), and a space for all of us to collaboratively learn.
 
