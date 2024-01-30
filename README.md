@@ -252,7 +252,7 @@ FINAL PROJECT DUE: May. 20th, 11:59pm
 ## assignments
 
 You will be responsible for:
-- weekly: 💥 MAB ADD LINK![Discord log](https://github.com/mab253/dataviz_fall23/blob/main/found-visualizations.md), due 4:00pm EST *before* every class session, starting Week 1
+- weekly: [Discord log post](https://github.com/mab253/bigdata_spring24/blob/main/discord.md), due 4:00pm EST *before* every class session, starting Week 1
 - weekly: active participation in seminar discussion
 - 1 programming assignment (codecademy mini-course + final notebook)
 - 1 symposium presentation, in pairs
@@ -270,7 +270,7 @@ All course material will be linked via this page on Github. I will often post ex
 - [Discord](https://discord.com)
 - [Google Colab/Jupyter Notebooks](https://research.google.com/colaboratory/faq.html)
 - [Codecademy](https://codecademy.com/) - free account
-- Cloud platform TBD: Hugging Face, Databricks
+- Various cloud platforms (TBD): Databricks, Hugging Face, MongoDB
 
 ## expectations and requirements
 ### how can I do well in this class?
@@ -286,9 +286,9 @@ It is crucial that we build a space where everyone can learn. This class will be
 ## evaluation:
 
 Grading breakdown:
-- Active Participation/Attendance: 15%
+- Active Participation/Attendance: 10%
 - Weekly Discord Log: 10%
-- Programming Assignment: 20%
+- Programming Assignment: 25%
 - Bibliography + Symposium Presentation: 30%
 - Final Project + Reflection:  25%
 
@@ -327,8 +327,8 @@ These tools are only going to get more powerful and more present; I want you to 
 - Proceed with caution: ask yourself if you would be better served by trying the solve the problem inside your own brain, or with reading materials, first!
 - Also remember that these tools can provide inaccurate answers, i.e. "hallucinations" - be careful to cross-check with another source
 - You may use Generative AI like a tutor, to ask questions to further clarify new material
-- You may use Generative AI to improve code and generate lines of code within a larger assignment - **however, you must cite the tool you used**. 💥 MAB ADD LINK!
-- You may **NOT** use Generative AI without citation 💥 MAB ADD LINK!
+- You may use Generative AI to improve code and generate lines of code within a larger assignment - **however, you must [cite](https://github.com/mab253/bigdata_spring24/blob/main/citations.md) the tool you used**.
+- You may **NOT** use Generative AI without [citation](https://github.com/mab253/bigdata_spring24/blob/main/citations.md) 
 - You may **NOT** use Generative AI outputs as the entirety of an assignment: for example, an entire paper, an entire solution to a programming problem, etc.
 
 I have ways of checking on the originality of your code and assignments. Consequences for violating this academic honesty policy will be severe, including but not limited to failing the course.
