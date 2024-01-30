@@ -18,7 +18,22 @@ In written language for a paper, we also cite when it's not a direct quote, but 
 Example:
 
 ```
-/* The following method is inspired by work done by Proton the Cat, Jupyter notebook available @ https://github.com/proton-the-cat */
+/* The following method is inspired by work done by Proton the Cat,
+Jupyter notebook available @ https://github.com/proton-the-cat */
 ```
+
+**🤖 In this class, you will also need to cite when you use generative AI tools (chatGPT, etc.) to improve your code or come up with a solution.**
+
+Example: 
+
+```
+/* -----
+This code was written with the aid of ChatGPT;
+when prompted 'how do I overload a constructor in my class?'
+the generated text helped me write the following code:
+accessed: Nov. 2023
+ -------- */
+```
+*You do not need to follow this format exactly, but your comment should cite the same information (prompt, source, and date if possible)*
 
 **This commenting and citation of code is NOT OPTIONAL.** If you do not cite code where you have copied either the exact lines or the inspiring method of someone else, this could be considered plagiarism in the context of this final project.
