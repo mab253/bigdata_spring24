@@ -76,7 +76,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **Recommended:**
 - "[Hadoop in 5 Minutes](https://www.youtube.com/watch?v=aReuLtY0YMI)," Simplilearn (video)
-- [other resources](LINK) for GFS/HDFS
+- [more resources](https://github.com/mab253/bigdata_spring24/blob/main/week1/resources.md) for GFS/HDFS
 
 
 ---
@@ -93,8 +93,7 @@ All work for this class will be project and presentation-based, and there will b
 **Recommended:**
 - from [*Hadoop, The Definitive Guide,* White Ch. 2](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-2.pdf), pp. 19-37 (you can skim/skip the Java code!)
 - "[What is MapReduce?](https://www.youtube.com/watch?v=43fqzaSH0CQ)," G. Challen (internet-class), (video, 5 min.)
-- "[MapReduce](https://www.youtube.com/watch?v=cvhKoniK5Uo)," R. Tickle (computerphile, U. of Nottingham), (video, 6 min.)
-- [other resources](LINK) for MapReduce
+- [more resources](https://github.com/mab253/bigdata_spring24/blob/main/week2/resources.md) for MapReduce
 
 ---
 
