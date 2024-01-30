@@ -10,13 +10,14 @@ City College, City University of New York
 
 ## course description
 
-This is a graduate-level course on the theory, practice, design, and critique of big data and contemporary scalable computation systems. After introducing the foundations of the hardware and software infrastructures of "big data", we will explore case studies of several specific systems and practice working with the programming libraries that leverage their use.  Students will take on self-directed research projects to investigate state-of-the-art tools and issues within scalable systems. We will also delve into the real limitations and ethical urgencies surrounding big data's current and growing role in sociotechnical systems.
+This is a graduate-level course on the theory, practice, design, and critique of "big data" and contemporary scalable computation systems. After introducing the foundations of the hardware and software infrastructures of big data, we will explore case studies of several specific systems and practice the programming libraries that leverage their use.  Students will take on self-directed research projects to investigate state-of-the-art tools and issues within scalable systems. We will also delve into the real limitations and ethical urgencies surrounding big data's current, growing role in sociotechnical systems.
 
 ## what will we do in this class?
 
 - explore foundational concepts and architectures of big data systems (incl. Hadoop, MapReduce, Spark)
 - work hands-on with big data programming paradigms via libraries (Python, SQL)
-- prepare for an evolving ecosystem by learning *to learn and teach* new technologies
+- explore current cloud platforms leveraging big data clusters (Databricks, Hugging Face, MongoDB, etc.)
+- prepare for an evolving ecosystem by *learning to learn and teach* new technologies
 - compare, evaluate, and critique new research and new tools in the field
 - analyze and contextualize the role of big data in terms of limitations and ethical concerns
 - interrogate the concept of big data as a form of knowledge production
@@ -34,7 +35,7 @@ This is a **hybrid** course. We will meet mostly synchronously, some weeks onlin
 
 👾 For this class, we will build an asynchronous offline community (as exists in nearly every endeavor @ this point!). We will have a class [Discord](https://github.com/mab253/bigdata_spring24/blob/main/discord.md) server with multiple channels for posting updates, posing questions, commenting on readings and each others' work, sharing resources and opportunities, etc.
 
-Big data is a widely-encompassing term referring to rapidly changing fields - learning foundational concepts and the ability to pick up new material will be more valuable to you than honing specific techniques! Because of this, our class will be structured more as a research seminar than a lecture course. In the introductory weeks, we will read original papers and use our class time to discuss the design of the systems described. Programming assignments in this early unit of the course are self-paced. After Week 5, we will transition into significantly self-directed work; you will have ample spacetime to follow your own curiosity and interests. Students will pair up to choose a research topic to present during a Symposium on Weeks 10 and 11, and continue focused work on this topic into a final paper/coding project.
+"Big data" is a widely-encompassing term referring to rapidly changing fields - learning foundational concepts and the ability to pick up new material will be more valuable to you than honing specific techniques! Because of this, our class will be structured more as a research seminar than a lecture course. In the introductory weeks, we will read original papers and use  class time to discuss overall system design. Programming assignments in this early unit of the course will be self-paced. After Week 5, we will transition into significantly self-directed work; you will have ample spacetime to follow your own curiosity and interests. Students will pair up to choose a research topic to present during a Symposium on Weeks 10 and 11, and continue focused work on this topic into a final paper/coding project.
 
 All work for this class will be project and presentation-based, and there will be no exams.
 
@@ -67,7 +68,7 @@ All work for this class will be project and presentation-based, and there will b
 
 *Distributed File Systems*
 
-**Reading for today:**
+**Readings due today:**
 - "[The Google File System](https://github.com/mab253/bigdata_spring24/blob/main/readings/google-file-system.pdf)," Ghemawat et. al (paper)
 - *[Hadoop, The Definitive Guide](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-1-3.pdf)*, White:
     - Ch. 1, pp. 3-14
@@ -85,7 +86,7 @@ All work for this class will be project and presentation-based, and there will b
 
 *Parallel Computation: MapReduce*
 
-**Reading for today:**
+**Readings due today:**
 - "[MapReduce: Simplified Data Processing on Large Clusters](https://github.com/mab253/bigdata_spring24/blob/main/readings/map-reduce.pdf)," Dean and Ghemawat (paper)
 - *[The Mining of Massive Datasets](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch-2.pdf),* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
 
@@ -102,7 +103,7 @@ All work for this class will be project and presentation-based, and there will b
 
 *Spark + PySpark I*
 
-**Reading for today:**
+**Readings due today:**
 - "[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://github.com/mab253/bigdata_spring24/blob/main/readings/spark.pdf)," Zaharia et. al (paper)
 - *Hadoop: The Definitive Guide* Ch. 19, pp. TBD 
 
@@ -153,7 +154,7 @@ All work for this class will be project and presentation-based, and there will b
 
 *AI Pipelines in the Cloud*
 
-**Reading for today:**
+**Readings due today:**
 - "Anatomy of an AI," *Atlas of AI* (Crawford) - pp. TBD
 - self-directed reading
 
@@ -166,7 +167,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **TBD: DATA CENTER TOUR**
 
-**Reading for today:**
+**Readings due today:**
 - "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
 - "[View of a Former Verizon Building](https://vimeo.com/65778055)," Wakeling (video, 19min.)
 - self-directed reading
@@ -308,7 +309,7 @@ It is important that everything you turn in for this class is your own work. I u
 - Discuss the course’s material with others in order to understand it better.
 - Help a classmate identify a bug in their code.
 - Incorporate a few lines of code that you find online or elsewhere into your own code, provided that those lines are not solutions to assigned work and that you **cite** the lines’ origins.
-- Turning to the web or elsewhere for instruction beyond the course’s own, for references, and for solutions to technical difficulties, but not for outright solutions to assigned work.
+- Turning to the web or elsewhere for instructionm, for references, and for solutions to technical difficulties, but not for outright solutions to assigned work.
 - Whiteboarding solutions with others using diagrams or pseudocode but not actual code.
 
 It is **not acceptable** to:
@@ -327,8 +328,8 @@ These tools are only going to get more powerful and more present; I want you to 
 - Also remember that these tools can provide inaccurate answers, i.e. "hallucinations" - be careful to cross-check with another source
 - You may use Generative AI like a tutor, to ask questions to further clarify new material
 - You may use Generative AI to improve code and generate lines of code within a larger assignment - **however, you must cite the tool you used**. 💥 MAB ADD LINK!
-- You may NOT use Generative AI without citation 💥 MAB ADD LINK!
-- You may NOT use Generative AI outputs as the entirety of an assignment: for example, an entire paper, an entire solution to a programming problem, etc.
+- You may **NOT** use Generative AI without citation 💥 MAB ADD LINK!
+- You may **NOT** use Generative AI outputs as the entirety of an assignment: for example, an entire paper, an entire solution to a programming problem, etc.
 
 I have ways of checking on the originality of your code and assignments. Consequences for violating this academic honesty policy will be severe, including but not limited to failing the course.
 
