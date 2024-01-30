@@ -13,7 +13,7 @@ By **March 13th,** you will need to find a partner in class and choose a topic t
 - a bibliography of sources that you will read (as a pair)
 
 Your bibliography should include **@ minimum:**
-- 2 academic research or industry white [papers](#📄-where-do-I-find-research-papers?)
+- 2 academic research or industry white [papers](#where-do-I-find-research-papers?)
 - 1 book (you may find book chapters or books online)
 - 2 related software tools with their documentation
 - 3 non-scholarly articles (online, journalistic, etc.)
@@ -37,7 +37,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Artists Using Big Data
 - Metaphors in Big Data, Critical Theory and Data, Memory, etc.
 
-## 📄 where do I find research papers?
+## where do I find research papers?
 - Google searches on your topic will take you far here, there are a lot of full PDFs available for download, especially for industry white papers.
 - Other [databases of academic journals are available via CUNY libraries](https://www.cuny.edu/libraries/e-resources/) (JSTOR, etc.)
 - You can also try searching [SpringerOpen](https://www.springeropen.com/), they have [Journal of Big Data](https://journalofbigdata.springeropen.com/), etc. 
