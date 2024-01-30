@@ -3,7 +3,7 @@
 on Apache Spark:
 - "[Apache Spark](https://www.youtube.com/watch?v=tDVPcqGpEnM)," R. Tickle (computerphile, U. of Nottingham), (video, 7 min.)
 
-on PySpark:
+on PySpark library:
 - [Apache PySpark](https://spark.apache.org/docs/latest/api/python/index.html), official documentation
 
 on Python:
