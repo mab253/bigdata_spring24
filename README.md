@@ -108,8 +108,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **Recommended:**
 - reading from the codecademy course: "[What is Spark](https://www.codecademy.com/courses/big-data-pyspark/articles/what-is-spark)," "[RDDs With PySpark](https://www.codecademy.com/courses/big-data-pyspark/lessons/pyspark-rdd-lesson/exercises/the-foundations-of-spark-rdds)"
-- "[Apache Spark](https://www.youtube.com/watch?v=tDVPcqGpEnM)," R. Tickle (computerphile, U. of Nottingham), (video, 7 min.)
-- [other resources](LINK) for Spark, PySpark, Python, etc.
+- [more resources](https://github.com/mab253/bigdata_spring24/blob/main/week3+4/resources.md) for Spark, PySpark, Python, etc.
 
 ---
 
@@ -128,7 +127,7 @@ All work for this class will be project and presentation-based, and there will b
 - finalize [symposium](https://github.com/mab253/bigdata_spring24/blob/main/symposium.md) pairs + topics, start bibliography
 
 **Recommended:**
-- [other resources](LINK) for Spark, PySpark, Python, SQL etc.
+- [more resources](https://github.com/mab253/bigdata_spring24/blob/main/week3+4/resources.md) for PySpark, Python, SQL etc.
 
 ---
 
