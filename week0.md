@@ -17,7 +17,7 @@ Group 2:
 
 Group 3:
   - the "V's" of Big Data
-  - start with "3 V's" ... and add a few more
+  - start with "3 V's" and [this article](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology) ... but tell us a few more
 
 Group 4:
   - [Critical Engineering Manifesto](https://criticalengineering.org/)
