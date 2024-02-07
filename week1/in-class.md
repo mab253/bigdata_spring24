@@ -39,5 +39,6 @@ Also check your group's understanding of the following terms and how they relate
 - rack awareness
 - batch processing
 - heartbeat monitoring
+- RAM (memory) vs. disk
 
 We will then circle back as a larger group to discuss! And draw.
