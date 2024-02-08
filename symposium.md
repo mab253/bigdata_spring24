@@ -32,7 +32,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - New Developments in Hardware (chips, etc.)
 - Case Study (of a specific company or research project)
 - PageRank, Search (Google)
-- Platform-Specific (CUDA, AWS, Mesos, Tensorflow, etc.)
+- Platform-Specific (CUDA, AWS, Snowflake, Mesos, Tensorflow, etc.)
 - New Development in LLMs, NLP, Generative AI ...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
 - Internet Archive, crawling
