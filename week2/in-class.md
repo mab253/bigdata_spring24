@@ -16,8 +16,9 @@ Check in with each other, and make sure you collectively understand the followin
 2. What does *abstraction* mean in the context of MapReduce as a programming model?
 3. What is *data locality,* and how does MapReduce relate? How does this relate to rack awareness?
 4. What does the manager node in MapReduce know?
-5. What is the relationship between RAM and disk memory in MapReduce?
-6. How does MapReduce typically decide what data gets partitioned where?
-7. What does "atomic" mean in terms of MapReduce and data operations?
+5. Do MapReduce backup processes speed up or slow down the entire job?
+6. What is the relationship between RAM and disk memory in MapReduce?
+7. How does MapReduce typically decide what data gets partitioned where?
+8. What does "atomic" mean in terms of MapReduce and data operations?
 
 If your group still has questions, take note of these, and bring them back to the larger group. You are encouraged to bring at least 1 question!
