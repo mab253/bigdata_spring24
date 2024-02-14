@@ -20,5 +20,6 @@ Check in with each other, and make sure you collectively understand the followin
 6. What is the relationship between RAM and disk memory in MapReduce?
 7. How does MapReduce typically decide what data gets partitioned where?
 8. What does "atomic" mean in terms of MapReduce and data operations?
+9. What does a programmer actually write in MapReduce? In what language?
 
 If your group still has questions, take note of these, and bring them back to the larger group. You are encouraged to bring at least 1 question!
