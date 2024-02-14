@@ -3,14 +3,15 @@
 We will divide into groups to solidify our understanding of MapReduce. 
 
 Every group will be in a breakout room in Zoom. 
-- Take a corner of the [Miro board](https://miro.com/app/board/uXjVNtAPTKw=/) for your group - give your group a name or a number and stake claim to a part of the board
+- First, a check-in question for each other: what is an early screen name, e-mail address, social media handle, etc. that you had? Why did you choose it? (The earlier the better; mine is embarassing, I promise.)
+- Now: take a corner of the [Miro board](https://miro.com/app/board/uXjVNtAPTKw=/) for your group - give your group a name or a number and stake claim to a part of the board
 - In that area, use the visual tools to talk through the processes of MapReduce as a group.
-- Make sure you understand the distinct phases: Map, Shuffle/Sort, Reduce
+- Make sure you understand the distinct phases: **Map, Shuffle/Sort, Reduce**
 - How will you visualize these steps? You can draw, write, use images, photos, etc. any way that you see fit.
 - Choose a metaphor for MapReduce, a process from life, work, etc. that follows an analogous process. Illustrate this too in some way!
 - Be ready to explain your visualizations to the larger group.
 
-Check in with each other, and make sure you collectively understand the following:
+Check in with each other, and make sure you collectively understand the following (and any other big questions):
 
 1. What is the relationship between a distributed file system (HDFS, GFS) and MapReduce?
 2. What does *abstraction* mean in the context of MapReduce as a programming model?
