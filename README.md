@@ -104,7 +104,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **Readings due today:**
 - "[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://github.com/mab253/bigdata_spring24/blob/main/readings/spark.pdf)," Zaharia et. al (paper)
-- *Hadoop: The Definitive Guide* Ch. 19, pp. TBD 
+- from [*Spark: The Definitive Guide*](https://github.com/mab253/bigdata_spring24/blob/main/readings/Spark-The%20Definitive%20Guide-ch1.pdf), Chambers and Zaharia 
 
 **Recommended:**
 - reading from the codecademy course: "[What is Spark](https://www.codecademy.com/courses/big-data-pyspark/articles/what-is-spark)," "[RDDs With PySpark](https://www.codecademy.com/courses/big-data-pyspark/lessons/pyspark-rdd-lesson/exercises/the-foundations-of-spark-rdds)"
