@@ -10,8 +10,8 @@ Every group will be in a breakout room in Zoom.
   - what are 1-2 questions you have about Spark and RDDs?
   - what are 1-2 current topics you are thinking about for your own research project?
 - Choose a notetaker for the group. This person should open the class notes doc ([here](https://pad.riseup.net/p/4bH2z-2-BeDAz9blQlT_-keep))
-- Share around the "room" your responses; the notetaker should add notes to the doc. If you can clarify a question that someone in your group has, please use this time to discuss it!
-- Note: the chance to share your current research thoughts could help you choose partners for the symposium project!
+- Share around the "room" your responses; the notetaker should add notes to the doc. If you can clarify a question that someone in your group has, please use this time to discuss it.
+- Note: the chance to share your current research thoughts could help you choose partners for the symposium project ...
 
 **Part II: ~20 minutes**
 
