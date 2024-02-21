@@ -5,12 +5,13 @@ We will divide into groups to check in on our individual research, and solidify 
 **Part I: ~15 minutes** 
 
 Every group will be in a breakout room in Zoom. 
-- First: each person take some solo time to write (on paper, or on notes on your own machine):
+- First: assign a notetaker and a timekeeper for the group. The notetaker should open the class notes doc ([here](https://pad.riseup.net/p/4bH2z-2-BeDAz9blQlT_-keep)), and the timekeeper can move the group along the following tasks ...
+- Now: each person take a few min. **solo** time to write (on paper, or on notes on your own machine):
   - what are the key evolutions and improvements of Spark over earlier processing frameworks?
   - what are 1-2 questions you have about Spark and RDDs?
   - what are 1-2 current topics you are thinking about for your own research project?
-- Choose a notetaker for the group. This person should open the class notes doc ([here](https://pad.riseup.net/p/4bH2z-2-BeDAz9blQlT_-keep))
-- Share around the "room" your responses; the notetaker should add notes to the doc. If you can clarify a question that someone in your group has, please use this time to discuss it.
+- The timekeeper can transition the group after a few minutes of writing.
+- Share our responses around the "room"; the notetaker should add notes to the doc while the group is discussing. If you can clarify a question that someone in your group has, please use this time to discuss it.
 - Note: the chance to share your current research thoughts could help you choose partners for the symposium project ...
 
 **Part II: ~20 minutes**
