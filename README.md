@@ -131,7 +131,7 @@ All work for this class will be project and presentation-based, and there will b
 
 ---
 
-**🏆 codecademy completed screenshot + final notebook DUE by Friday March 8th, 11:59pm - [SUBMIT HERE](https://airtable.com/appgQV4bSPRVdHEWt/shrOahNbuss9wxvyN)**
+**🏆 codecademy completed screenshot + [final notebook](https://github.com/mab253/bigdata_spring24/blob/main/programming.md) DUE by Friday March 8th, 11:59pm - [SUBMIT HERE](https://airtable.com/appgQV4bSPRVdHEWt/shrOahNbuss9wxvyN)**
 
 ---
 
