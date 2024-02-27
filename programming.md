@@ -25,7 +25,7 @@ For this assignment, you will need to:
 - Check out the settings in the upper right - it should automatically connect you to your hardware cluster, but you may need to tell it to **Connect.** Look at your cluster size, how many cores you have, etc. by checking out the Cluster **Configuration** from the menu in the upper right.
 - Databricks notebooks come with Spark installed! Look at **View -> Spark UI** and get familiar with the Spark user interface. Check out the different tabs and pages available there. (Remember, this is where you can ultimately see DAG visualizations, timelines of tasks, error logs, and other performance metrics.)
 - When you are ready, go through the cells in the notebook, writing either Python code or text, depending on what each cell asks you to do.
-- You may want to consult the Codecademy course as you go through - most of the material in the questions was covered there!
+- You may want to consult the Codecademy course as you go through - most of the material in the questions was covered there.
 - This is not an exam (it's open book), and you are allowed to ask questions about the assignment on Discord. (You are encouraged have collaborative discussions in the #code-questions channel to help each other out.) Please make sure that your final work is your own code and words, make [citations in comments in your code](https://github.com/mab253/bigdata_spring24/blob/main/citations.md) if you turn to other resources, and you will also be asked to list the sources you used at the end of the notebook.
 - Happy coding! 
 
