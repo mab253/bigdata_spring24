@@ -25,8 +25,8 @@ For this assignment, you will need to:
 - Check out the settings in the upper right - it should automatically connect you to your hardware cluster, but you may need to tell it to **Connect.** Look at your cluster size, how many cores you have, etc. but checking out the Cluster **Configuration** from the menu in the upper right.
 - Databricks notebooks come with Spark installed! Look at **View -> Spark UI** and get familiar with the Spark user interface. Check out the different tabs and pages available there. (Remember, this is where you can ultimately see DAG visualizations, timelines of tasks, error logs, and other performance metrics.)
 - When you are ready, go through the cells in the notebook, writing either Python code or text, depending on what each cell asks you to do.
-- You may want to consult the Codecademy course - most questions were directly covered there!
-- This is not an exam (it's open book), and you are allowed to ask questions about the assignment on Discord. (Either I can help there, or ideally your fellow classmates.) Please make sure that your final work is your own code and words, and you will be asked to cite the sources you used at the end of the notebook.
+- You may want to consult the Codecademy course as you go through - most of the material in the questions was covered there!
+- This is not an exam (it's open book), and you are allowed to ask questions about the assignment on Discord. (Either I can help there, or ideally your fellow classmates.) Please make sure that your final work is your own code and words, make citations in comments in your code if you turn to other resources, and you will also be asked to cite the sources you used at the end of the notebook.
 - Happy coding!
 
 - **NOTE:** if you save your work and come back to it later, you will find that your cluster session has "Terminated." That's fine! You will need to **Create a new resource** in the dropdown menu at the top right of the notebook, where your cluster information lives. There is no limit to how many times you can create new clusters, and you may need to do this in the middle of a work session. Should be no problem!
