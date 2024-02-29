@@ -46,3 +46,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Other [databases of academic journals are available via CUNY libraries](https://www.cuny.edu/libraries/e-resources/) (JSTOR, etc.)
 - You can also try searching [SpringerOpen](https://www.springeropen.com/), where you can search [Journal of Big Data](https://journalofbigdata.springeropen.com/), etc. 
 
+### what should the bibliography look like?
+- The bibliography due on March 13th is just the list of sources, containing details like publication date, author, etc. 
+- There are some good examples [here](https://www.scribbr.co.uk/referencing/harvard-bibliography/) and [here](https://guides.lib.unc.edu/citing-information/chicago-notes-sample)
+- I am not requiring a specific format; Chicago, or Harvard, or APA, etc. are all fine. You can get help generating the bibliography entries at sites [like this one](https://zbib.org)
