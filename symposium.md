@@ -35,6 +35,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - PageRank, Search (Google)
 - Platform-Specific (CUDA, AWS, Snowflake, Mesos, MongoDB, Tensorflow, etc.)
 - New Development in LLMs, NLP, Generative AI ...
+- Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
 - Internet Archive, crawling
 - Visualization of Big Data
