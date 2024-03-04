@@ -27,6 +27,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Data Storage on the Blockchain (IPFS, etc.)
 - Domain-Specific Implementation (science, health, justice, airlines, finance)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
+- Big Data + Disaster Response
 - Security and Big Data
 - Media Storage at Scale
 - Environmental Impact of Big Data + Scalable Systems Infrastructure
