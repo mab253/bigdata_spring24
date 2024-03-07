@@ -131,7 +131,7 @@ All work for this class will be project and presentation-based, and there will b
 
 ---
 
-**🏆 codecademy completed screenshot + [final notebook](https://github.com/mab253/bigdata_spring24/blob/main/programming.md) DUE by Friday March 8th, 11:59pm - [SUBMIT HERE](https://airtable.com/appgQV4bSPRVdHEWt/shrOahNbuss9wxvyN)**
+**🏆 codecademy completed screenshot + [final notebook](https://github.com/mab253/bigdata_spring24/blob/main/programming.md) DUE by Saturday March 9th, 12:00pm - [SUBMIT HERE](https://airtable.com/appgQV4bSPRVdHEWt/shrOahNbuss9wxvyN)**
 
 ---
 
@@ -240,7 +240,7 @@ FINAL PROJECT DUE: May. 20th, 11:59pm
 
 ## key dates
 
-- mini-course complete + programming notebook: due March 8th, 11:59pm
+- mini-course complete + programming notebook: due March 8th, 11:59pm (changed: March 9th, 12pm)
 - bibliography + symposium proposal DUE by March 13th, 11:59pm
 - TO BE CONFIRMED: in-person data center tour, Week 8 ~March 27th
 - symposium: in-person, April 10th & April 17th
@@ -250,7 +250,7 @@ FINAL PROJECT DUE: May. 20th, 11:59pm
 ## assignments
 
 You will be responsible for:
-- weekly: [Discord log post](https://github.com/mab253/bigdata_spring24/blob/main/discord.md), due 4:00pm EST *before* every class session, starting Week 1
+- weekly: [Discord log post](https://github.com/mab253/bigdata_spring24/blob/main/discord.md), due 4:00pm EST *before* every class session, starting Week 1 (or, Saturday 12pm on asynchronous weeks)
 - weekly: active participation in seminar discussion
 - 1 programming assignment (codecademy mini-course + final notebook)
 - 1 symposium presentation, in pairs
