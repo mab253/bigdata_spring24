@@ -23,7 +23,8 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Persistence in Big Data
 - Data Lake, Data Warehouse, Data Lakehouse
 - Go (Golang) computer language (Google)
-- Kubernetes, Containerization (++ cloud infrastructure, popular in industry now)
+- Kubernetes, Containerization
+- Serverless and FaaS Cloud Computing for Big Data
 - Data Storage on the Blockchain (IPFS, etc.)
 - Domain-Specific Implementation (science, health, justice, airlines, finance)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
