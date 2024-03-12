@@ -26,7 +26,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Kubernetes, Containerization
 - Serverless and FaaS Cloud Computing for Big Data
 - Data Storage on the Blockchain (IPFS, etc.)
-- Domain-Specific Implementation (science, health, justice, airlines, finance)
+- Domain-Specific Implementation (science, health, justice, airlines, finance, media)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - Big Data + Disaster Response
 - Security and Big Data
