@@ -6,7 +6,7 @@ Every group will be in a breakout room in Zoom.
 - First, check in and say hi to your group.
 - Now: take a corner of the [Miro board]([https://miro.com/app/board/uXjVNtAPTKw=/](https://miro.com/app/board/uXjVNhU9TkA=/?share_link_id=816646626691)) for your group - give your group a name or a number and stake claim to a part of the board
 - The task: how might you design a cloud-based MapReduce function for big data at a project like CERN? Say you want to add up all the values of a (GB! large) column of data on subatomic particle mass.
-- Utilize event-drive, parallel serverless functions.
+- Utilize event-driven, parallel serverless functions.
 - Think about what triggers these functions - how you will make sure they run in parallel across a whole big batch dataset?
 - Start by discussing your idea simply from what you know already from class, brainstorm with each other and be creative.
 - This can be "high-level," building blocks of a system, not necessarily details of how queues work, etc.
