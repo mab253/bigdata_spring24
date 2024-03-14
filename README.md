@@ -153,7 +153,7 @@ All work for this class will be project and presentation-based, and there will b
 *AI Pipelines in the Cloud*
 
 **Readings due today:**
-- "Earth," ch. from _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_, Crawford pp. 23-51
+- "[Earth](https://github.com/mab253/bigdata_spring24/blob/main/readings/The%20Atlas%20of%20AI%20Power%2C%20Politics%2C%20and%20the%20Planetary%20Costs%20of%20Artificial%20Intelligence-1-earth.pdf)," ch. from _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_, Crawford pp. 23-51
 - "[Anatomy of an AI](https://anatomyof.ai/)," Crawford and Joler - spend some time with diagram - text optional (but recommended!)
 - self-directed reading
 
