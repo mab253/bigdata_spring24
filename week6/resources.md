@@ -13,3 +13,4 @@
 
 overview:
 - [A general introduction to cloud computing](https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing), Digital Ocean
+- [USGS cloud migration video](https://www.usgs.gov/media/videos/landsat-data-cloud)
