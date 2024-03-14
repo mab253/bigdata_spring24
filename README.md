@@ -153,7 +153,8 @@ All work for this class will be project and presentation-based, and there will b
 *AI Pipelines in the Cloud*
 
 **Readings due today:**
-- "Anatomy of an AI," *Atlas of AI* (Crawford) - pp. TBD
+- "Earth," ch. from _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_, Crawford pp. 23-51
+- "[Anatomy of an AI](https://anatomyof.ai/)," Crawford and Joler - spend some time with diagram - text optional (but recommended!)
 - self-directed reading
 
 ---
