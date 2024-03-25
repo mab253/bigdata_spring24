@@ -164,7 +164,8 @@ All work for this class will be project and presentation-based, and there will b
 
 *Questions of Scale: Infrastructure + Materiality*
 
-**TBD: DATA CENTER TOUR**
+**DATA CENTER TOUR: 4pm, 395 Hudson Street** \
+(check Discord for more details)
 
 **Readings due today:**
 - "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
