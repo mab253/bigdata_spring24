@@ -75,10 +75,10 @@ A few other things to remember:
 
 Examples of ~30 min. talks:
 - [Stanford Seminar, introduction to PyWren](https://www.youtube.com/watch?v=dkdKeoFYpn4) (serverless functions for big data) - this one is a little long but has a strong balance of introduction and techinical depth, classroom seminar setting very much like our goal
+- [Cathy O'Neill, talks @ Google on her book _Weapons of Math Destruction_](https://www.youtube.com/watch?v=TQHs8SA1qpk) - good example of an informal style with depth/rigor, Q&A starts ~30 min.
 - [Allison Parrish, workshop @ NYU Games](https://www.youtube.com/watch?v=KoL0-JW4yjE) - creative, storytelling + technical explanations
 - [Jovian, GPT tutorial](https://www.youtube.com/watch?v=CVqsdTTKFd8) - combination of slide talk + code demo, learning a new tool
 - [Claire Evans, Gray Area Festival talk on her book on women + history of computing](https://www.youtube.com/watch?v=evwWTQ7LRRM) - great storytelling, great visuals
-- [Cathy O'Neill, talks @ Google on her book _Weapons of Math Destruction_](https://www.youtube.com/watch?v=TQHs8SA1qpk) - good example of an informal style with depth/rigor, Q&A starts ~30 min.
 
 Deliverables + Grading:
 - You will be evaluated on your presentation, in the following categories:
