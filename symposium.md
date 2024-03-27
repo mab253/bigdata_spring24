@@ -58,7 +58,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 
 On Weeks 10 + 11, your group will have **30 minutes** to make a presentation and engage the class in your research topic. By this point, you have been reading your bibliography and developing an in-depth understanding of your chosen subject, and this is the time to share your current, in-progress research with the class. The format is up to you - here are a few suggestions:
 - 1 big 20-22 minute presentation with your partner, with some time for Q&A (teach us something!)
-- 2 short presentations, 10 min. each delivered by each team member, with some time for Q&A (you could deliver 1 techinical and 1 ethical perspective, or 2 use cases, etc.)
+- 2 short presentations, 12 min. each, delivered by each team member, with some time for Q&A (you could deliver 1 techinical and 1 ethical perspective, or 2 use cases, etc., however you divide the work can be up to you)
 - 1 30 min. technical demo, that you walk us through with a notebook in-class, like a lab
 - 1 short presentation and 1 demo with code, delegate work between 2 partners
 - 1 workshop: you could create questions and walk us through a structured discussion, create an activity for us to do on the board or on our machines, to engage with your topic
