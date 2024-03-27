@@ -87,7 +87,3 @@ Deliverables + Grading:
   - Clarity of explanations
   - Visual aids: polished and helpful to your topic
 - After your group presents, you will turn in a brief outline of your talk, your slides/visuals, and any code if you presented a demo
-
-NOTES on code/demo:
-- If you do not include any code work or demo in your presentation, that is 100% up to you, a fine choice.
-- However, if you do not include code in your presentation, you will need to include some technical work in your final project. 
