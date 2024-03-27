@@ -54,7 +54,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - There are some good examples [here](https://www.scribbr.co.uk/referencing/harvard-bibliography/) and [here](https://guides.lib.unc.edu/citing-information/chicago-notes-sample)
 - I am not requiring a specific format; Chicago, or Harvard, or APA, etc. are all fine. You can get help generating the bibliography entries at sites [like this one](https://zbib.org)
 
-## 🗣️ part ii: symposium presentation
+# 🗣️ part ii: symposium presentation
 
 On Weeks 10 + 11, your group will have **30 minutes** to make a presentation and engage the class in your research topic. By this point, you have been reading your bibliography and developing an in-depth understanding of your chosen subject, and this is the time to share your current, in-progress research with the class. The format is up to you - here are a few suggestions:
 - 1 big 20-22 minute presentation with your partner, with some time for Q&A (teach us something!)
@@ -69,7 +69,9 @@ On Weeks 10 + 11, your group will have **30 minutes** to make a presentation and
 A few other things to remember:
 - Time is important. If you leave 20 minutes for unstructured Q&A but your audience does not have questions, this will mean you did not present enough material.
 - Similarly, if you have 1 hour's worth of material ...  **we will need to cut you off at 30 min!** _Practice_ your presentation so you know how much time you have and will need.
-- Know your audience: this is not a general presentation, but a real event with a real audience of people you know! We have some shared experience with big data tools through this course, so we operate on a shared foundation. This is also a graduate-level course - so your introduction should be at a level that is challenging and interesting for your audience of peers.
+- **Speak to your audience**: this is not a general presentation, but a real event with a real audience of people you know! We have some shared experience with big data tools through this course, so we operate on a shared foundation. This is also a graduate-level course - so your introduction should be at a level that is challenging and interesting for your audience of peers.
+- Show us some of your personality and your interest in the topic that you chose - how did you follow your curiosity to develop your research?
+- You are not expected to be an expert at this point. You may also include your questions and your sense of "work-in-progress." Your classmates' feedback could help you determine the direction of further work.
 
 Examples of ~30 min. talks:
 - [Stanford Seminar, introduction to PyWren](https://www.youtube.com/watch?v=dkdKeoFYpn4) (serverless functions for big data) - this one is a little long but has a strong balance of introduction and techinical depth, classroom seminar setting very much like our goal
