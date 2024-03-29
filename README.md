@@ -181,7 +181,7 @@ All work for this class will be project and presentation-based, and there will b
 
 **Readings due today:**
 - "[Six Provacations for Big Data](https://github.com/mab253/bigdata_spring24/blob/main/readings/six-provocations-boyd-crawford-SSRN.pdf)," boyd and Crawford
-- *Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman from Ch. 1, pp. 1-7
+- *Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman from [Ch. 1, pp. 1-7](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch1.pdf)
 - self-directed reading
 
 ---
