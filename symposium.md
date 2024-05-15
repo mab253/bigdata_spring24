@@ -90,6 +90,8 @@ Deliverables + Grading:
 
 # 📑 part iii: final 
 
+### 💥 please submit using [this form](https://airtable.com/appgQV4bSPRVdHEWt/shrDFCDzhSSIp7Kby)! by May 20th, 11:59pm
+
 As the final work in this class, you will be responsible for:
 
 - 1 short (7 min. max) follow-up presentation, in-person on the last day of class, 1 presentation per group (May 15th)
@@ -111,7 +113,7 @@ As the final work in this class, you will be responsible for:
 - a combination of the above (shorter paper, but paper + code notebook, for example)
 - have another idea? an art project, another form of writing or media? speculative fiction?! propose it! 
 
-You will need to turn in a proposal for your final project (just a brief, informal Discord DM or e-mail telling me what you plan to create) by the end of the day (11:59pm) **Wednesday, May 1st.** You will receive brief feedback from me about the scope etc. and approval for the final 👍 The final is due on **May 20th, by 11:59pm.**
+You will need to turn in a proposal for your final project (just a brief, informal Discord DM or e-mail telling me what you plan to create) by the end of the day (11:59pm) **Wednesday, May 1st.** You will receive brief feedback from me about the scope etc. and approval for the final 👍 The final is due on **May 20th, by 11:59pm.** 
 
 **NOTE**: this final project work should avoid merely **_summary_** - if you are writing a paper, make sure you are adding your own original thoughts, questions, and arguments, do not simply summarize your sources! If you are creating a video, for example, a successful video for this class will not simply be a summary of what you learned about your topic. You will need to dig deeper: what are the unanswered questions about this topic that you have studied? What are potential solutions to big problems in big data? What are applications of the tools we have learned about? Etc. - please no "book reports" - that's what the annotated bibliography is for! If you have questions about this, please let me know when you turn in your proposal on May 1st.
 
