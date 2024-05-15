@@ -237,7 +237,8 @@ All work for this class will be project and presentation-based, and there will b
 *Wrap-Up & Final Presentations*
 
 FINAL PROJECT DUE: May. 20th, 11:59pm \
-**[SUBMIT HERE](https://airtable.com/appgQV4bSPRVdHEWt/shrDFCDzhSSIp7Kby)**
+**[💥 SUBMIT HERE](https://airtable.com/appgQV4bSPRVdHEWt/shrDFCDzhSSIp7Kby)**
+
 ---
 
 ## key dates
